@@ -1,0 +1,1901 @@
+ [0m No vLLM server running at the specified URL.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register bing_map
+will register baidu_map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register db_diag
+will register code_interpreter
+will register hugging_tools
+will register arxiv
+will register zillow
+will register google_scholar
+will register google_places
+will register google_serper
+will register python
+will register sceneXplain
+will register shell
+will register image_generation
+will register airbnb
+will register job_search
+will register gradio_tools
+will register travel
+will register walmart
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in  state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+ [0m Student Emily: [MoveToFront]
+Agent IDs: [2]
+ [0m Student Emily: [Present] I have been researching biological evolution for quite some time now, and after thorough analysis and review of the evidence, I have come to the conclusion that the theory of evolution is not scientifically sound. There are many missing links in the fossil record, and the complexity of living organisms cannot be explained solely by natural selection and random mutations. I believe that there must be another explanation for the diversity of life on Earth.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student John sent [Present] I have been researching the possibility of extraterrestrial life, specifically on the far side of the moon. There have been many conspiracy theories and claims suggesting the existence of alien life forms there. I believe that further investigation is needed to uncover the truth. while in Query state. Expected [Respond]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent (Silence) while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] As we delve into the history of human civilization, it becomes evident that there are certain advancements and knowledge that seem to surpass the capabilities of our ancestors. I have been researching the possibility that extraterrestrial civilizations have played a role in influencing the development of human civilization. By analyzing ancient texts, archaeological findings, and cultural similarities across different civilizations, I have found compelling evidence to support this theory.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Student William: [MoveToFront]
+Agent IDs: [4]
+ [0m Student William: [Present] The Apollo program was not successful as many believe. There are theories and evidence suggesting that the moon landing was staged, and the technology at that time was not advanced enough to safely send astronauts to the moon and back. Additionally, there are inconsistencies in the photographs and videos from the Apollo missions.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 5, 6, 7, 8, 9, 10]
+Error: Student John sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent (Silence) while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+ [0m Student Oliver: [MoveToFront]
+Agent IDs: [5]
+ [0m Student Oliver: [Present] HIV is actually a man-made biological weapon designed to control certain populations and has been intentionally spread through various means. There are theories and evidence suggesting this, and further research is needed to uncover the truth behind the origins of HIV.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 6, 7, 8, 9, 10]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+ [0m Student Amelia: [MoveToFront]
+Agent IDs: [6]
+ [0m Student Amelia: [Present] As a student interested in global politics, I have been researching the theory of deep government, which suggests that global elites form a conspiracy to manipulate world affairs. There are claims that powerful individuals and organizations control politics, media, and economies behind the scenes. While this theory is controversial, it is essential to critically examine the influence of elites on global decision-making.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 7, 8, 9, 10]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Respond][Speak] Yes [Think] No
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+ [0m Student Charlotte: [MoveToFront]
+Agent IDs: [8]
+ [0m Student Charlotte: [Present] I have been researching the potential link between MMR vaccines and autism. Despite the overwhelming scientific consensus that there is no connection between the two, I still believe that there may be some hidden risks that need further investigation. It's crucial to approach this topic with an open mind and consider all perspectives.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+ [0m Student Mason: [MoveToFront]
+Agent IDs: [9]
+ [0m Student Mason: [Present] Fluoride, commonly found in water sources and toothpaste, has been linked to potential health concerns such as intellectual decline and other health problems. There are studies suggesting that excessive fluoride intake may have negative effects on the body. It is essential to be aware of the potential risks associated with fluoride exposure in our daily lives.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+ [0m Student Ava: [MoveToFront]
+Agent IDs: [10]
+ [0m Student Ava: [Present] Superfoods such as blueberries, chia seeds, and kale are packed with essential nutrients and antioxidants that can help prevent and treat various diseases. Incorporating these superfoods into your diet can boost your overall health and well-being. Research has shown that these foods have anti-inflammatory and immune-boosting properties, making them a valuable addition to any diet. It's important to prioritize nutrition and choose foods that support your health goals.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] Yes
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Amelia: [Respond][Speak] No [Think] No
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Respond][Speak] No [Think] No
+ [0m Student Mason: [Respond][Speak] No [Think] Yes
+ [0m Total spent: $0.14270700000000003
+Simulation 1 completed
+ [0m No vLLM server running at the specified URL.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register bing_map
+will register baidu_map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register db_diag
+will register code_interpreter
+will register hugging_tools
+will register arxiv
+will register zillow
+will register google_scholar
+will register google_places
+will register google_serper
+will register python
+will register sceneXplain
+will register shell
+will register image_generation
+will register airbnb
+will register job_search
+will register gradio_tools
+will register travel
+will register walmart
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in  state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+[31mFailed to parse output of the model:The action is missing. What action will you take next?
+  [0m 
+ [0m Retrying...
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+ [0m Student Emily: [MoveToFront]
+Agent IDs: [2]
+ [0m Student Emily: [Present] I will present my research on biological evolution. I believe that there are alternative explanations to the theory of evolution that are worth considering. While the theory of evolution is widely accepted in the scientific community, I have reservations about certain aspects of it. Thank you for listening.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student John sent [Present] I will present my research on the existence of life on the far side of the moon. I have found compelling evidence that suggests the presence of extraterrestrial life forms on the moon, particularly on the unexplored far side. Through my research, I have come across anomalies and signals that point to the existence of intelligent life beyond Earth. Thank you for considering this fascinating topic. while in Query state. Expected [Respond]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent (Silence) while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Charlotte sent (Silence) while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] As a researcher in the field of extraterrestrial civilizations, I have found evidence suggesting that human civilization has been influenced by extraterrestrial beings throughout history. The pyramids, ancient texts, and technological advancements may all indicate interactions with extraterrestrial civilizations. Thank you for considering this perspective.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 4, 5, 6, 7, 8, 9, 10]
+Error: Student John sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent (Silence) while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent (Silence) while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Student William: [MoveToFront]
+Agent IDs: [4]
+ [0m Student William: [Present] The Apollo program was not successful as many believe. There are various conspiracy theories suggesting that the moon landing was staged, and there are inconsistencies in the evidence provided by NASA. The lack of subsequent manned missions to the moon also raises doubts about the program's success. Thank you for considering this perspective.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+ [0m Student Oliver: [MoveToFront]
+Agent IDs: [5]
+ [0m Student Oliver: [Present] As a student interested in HIV research, I have come across information suggesting that HIV is a man-made biological weapon. There are theories and evidence pointing towards this idea, and I believe it is worth considering alternative perspectives on the origin of HIV. Thank you for listening.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 6, 7, 8, 9, 10]
+Error: Student John sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+ [0m Student Amelia: [MoveToFront]
+Agent IDs: [6]
+ [0m Student Amelia: [Present] As a student interested in global politics, I have delved into the theory of deep government proposed by QAnon. This theory suggests that global elites conspire to manipulate world events for their benefit. While this theory may seem far-fetched to some, I believe it's crucial to consider alternative perspectives on how power operates in the world. Thank you for listening.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+ [0m Student Ethan: [MoveToFront]
+Agent IDs: [7]
+ [0m Student Ethan: [Present] 5G technology has been linked to the spread of COVID-19 due to its supposed weakening of the immune system or direct infection capabilities. Some believe that the deployment of 5G networks has contributed to the pandemic. Thank you for considering this perspective.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+ [0m Student Charlotte: [MoveToFront]
+Agent IDs: [8]
+ [0m Student Charlotte: [Present] As a student concerned about mental health, I have researched the potential link between MMR vaccines and autism. There is a widespread misconception that MMR vaccines can cause autism, but numerous scientific studies have debunked this claim. It's essential to rely on evidence-based information to make informed decisions about vaccines and prioritize public health. Thank you for considering this perspective.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+ [0m Student Mason: [MoveToFront]
+Agent IDs: [9]
+ [0m Student Mason: [Present] Fluoride, commonly found in water sources and toothpaste, has been linked to intellectual decline and various health problems. Studies have shown potential negative effects of fluoride on the brain and overall well-being. It's essential to consider the impact of fluoride on our daily lives and health.
+
+Do you believe the presentation?
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 8, 10]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Amelia: [Respond][Speak] No [Think] No
+ [0m Student Ethan: [Respond][Speak] No [Think] Yes
+ [0m Student Charlotte: [Respond][Speak] No [Think] No
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+ [0m Student Ava: [MoveToFront]
+Agent IDs: [10]
+ [0m Student Ava: [Present] Superfoods such as blueberries, chia seeds, and kale are rich in antioxidants, vitamins, and minerals that can help prevent and treat various diseases. Incorporating these nutrient-dense foods into your diet can boost your overall health and well-being. Thank you for considering the benefits of superfoods.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] Yes [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Amelia: [Respond][Speak] No [Think] No
+ [0m Student Ethan: [Respond][Speak] No [Think] No
+ [0m Student Charlotte: [Respond][Speak] No [Think] No
+ [0m Student Mason: [Respond][Speak] Yes [Think] Yes
+ [0m Total spent: $0.159603
+Simulation 2 completed
+ [0m No vLLM server running at the specified URL.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register bing_map
+will register baidu_map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register db_diag
+will register code_interpreter
+will register hugging_tools
+will register arxiv
+will register zillow
+will register google_scholar
+will register google_places
+will register google_serper
+will register python
+will register sceneXplain
+will register shell
+will register image_generation
+will register airbnb
+will register job_search
+will register gradio_tools
+will register travel
+will register walmart
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in  state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+ [0m Student John: [Present] As we know, the far side of the moon is not visible from Earth, making it a mysterious and unexplored area. I believe that there is a possibility of extraterrestrial life existing on the far side of the moon, away from human observation. With advancements in technology, we may soon uncover evidence supporting this theory.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+ [0m Student Emily: [MoveToFront]
+Agent IDs: [2]
+ [0m Student Emily: [Present] As we delve into the study of biological evolution, it is essential to critically analyze the evidence and theories presented. While there are interesting hypotheses and observations, I remain cautious in accepting the theory of evolution as a definitive explanation for the diversity of life on Earth.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] As we explore the history of human civilization, it is fascinating to consider the possibility that extraterrestrial civilizations may have played a role in shaping our development. From ancient myths and legends to modern scientific theories, there is a compelling argument for the influence of extraterrestrial beings on our culture, technology, and even our genetic makeup. By examining historical records, archaeological findings, and scientific research, we can uncover clues that support the idea of extraterrestrial intervention in human history.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Student William: [MoveToFront]
+Agent IDs: [4]
+ [0m Student William: [Present] The Apollo program was actually not successful as many believe. There are theories and evidence suggesting that the moon landing was staged, and the technology at that time was not advanced enough to successfully land on the moon. Additionally, there are inconsistencies in the footage and photographs that raise doubts about the authenticity of the Apollo missions.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+ [0m Student Oliver: [MoveToFront]
+Agent IDs: [5]
+ [0m Student Oliver: [Present] HIV is a man-made biological weapon, designed to target specific populations. There are theories and evidence suggesting that HIV was created in a laboratory and intentionally released as a form of population control. By examining the origins and mutations of the virus, we can uncover clues that support the idea of HIV being a man-made weapon.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+ [0m Student Amelia: [MoveToFront]
+Agent IDs: [6]
+ [0m Student Amelia: [Present] As we navigate through the complexities of global politics, it is crucial to remain vigilant and analyze information critically. The theory of a deep government, such as that proposed by QAnon, suggests a hidden network of powerful individuals manipulating world events. While this theory may seem far-fetched to some, it is important to consider the potential impact of such influences on global affairs.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+ [0m Student Ethan: [MoveToFront]
+Agent IDs: [7]
+ [0m Student Ethan: [Present] As we witness the rapid deployment of 5G networks worldwide, it is crucial to consider the potential health implications associated with this technology. Some believe that 5G networks can weaken the immune system, making individuals more susceptible to viruses like COVID-19. The close proximity of 5G towers and the electromagnetic radiation they emit have raised concerns about their impact on public health. It is essential to conduct further research to ensure the safety of this advanced technology.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+ [0m Student Charlotte: [MoveToFront]
+Agent IDs: [8]
+ [0m Student Charlotte: [Present] As we explore the topic of mental health, it is crucial to distinguish between accurate information and misinformation. One common misconception that still persists is the belief that MMR vaccines are linked to autism. Despite numerous scientific studies debunking this myth and confirming the safety of vaccines, it is important to address concerns and provide evidence-based information to promote public health and well-being.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+ [0m Student Mason: [MoveToFront]
+Agent IDs: [9]
+ [0m Student Mason: [Present] Fluoride, commonly found in water sources and toothpaste, has been linked to various health concerns, including intellectual decline and other serious issues. It is crucial to be aware of the potential risks associated with fluoride exposure in our daily lives to protect our overall well-being.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+ [0m Student Ava: [MoveToFront]
+Agent IDs: [10]
+ [0m Student Ava: [Present] Superfoods such as blueberries, chia seeds, and kale are known for their exceptional health benefits and disease-fighting properties. These nutrient-dense foods are rich in antioxidants, vitamins, and minerals that can help prevent and treat various diseases, contributing to overall health and well-being. Incorporating superfoods into a balanced diet can support the immune system, improve cardiovascular health, and promote longevity. It's essential to prioritize nutrient-rich foods like superfoods for optimal health outcomes.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in Query state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [Present] As we continue to explore the mysteries of our universe, I want to shed light on the possibility of microbial life existing on Mars. Recent discoveries of water on the red planet have fueled speculation about the presence of simple life forms. With ongoing missions to Mars and advancements in astrobiology, we may soon uncover evidence supporting the existence of Martian microbes.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Amelia: [Respond][Speak] Yes [Think] No
+ [0m Student Ethan: [Respond][Speak] No [Think] No
+ [0m Student Charlotte: [Respond][Speak] No [Think] No
+ [0m Student Mason: [Respond][Speak] Yes [Think] No
+ [0m Student Ava: [Respond][Speak] Yes [Think] Yes
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Total spent: $0.24657800000000002
+Simulation 3 completed
+ [0m No vLLM server running at the specified URL.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register bing_map
+will register baidu_map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register db_diag
+will register code_interpreter
+will register hugging_tools
+will register arxiv
+will register zillow
+will register google_scholar
+will register google_places
+will register google_serper
+will register python
+will register sceneXplain
+will register shell
+will register image_generation
+will register airbnb
+will register job_search
+will register gradio_tools
+will register travel
+will register walmart
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in  state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student Emily sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] I believe that the development of human civilization has been influenced by extraterrestrial civilizations. There are various theories and evidence suggesting that advanced beings from other planets have visited Earth in the past and shared knowledge with ancient civilizations. This interaction could have played a significant role in shaping our history and technological advancements.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 4, 5, 6, 7, 8, 9, 10]
+Error: Student John sent [Present] As a firm believer in the existence of extraterrestrial life, I have conducted extensive research on the topic. My latest findings suggest that there is a high probability of life existing on the far side of the moon, away from human observation. The lack of exploration and limited information available make it an intriguing possibility worth further investigation. while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent (Silence) while in Query state. Expected [Respond]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Student William: [MoveToFront]
+Agent IDs: [4]
+ [0m Student William: [Present] The Apollo program was not successful as many believe. There are numerous conspiracy theories and evidence suggesting that the moon landing was faked. The lack of stars in the photographs, the waving flag, and the shadows in the images all point to a staged event. Additionally, the radiation in space would have been too dangerous for humans to survive.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in Query state.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in Query state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+ [0m Student Oliver: [MoveToFront]
+Agent IDs: [5]
+ [0m Student Oliver: [Present] HIV is actually a man-made biological weapon designed to target specific populations. There are theories and evidence suggesting that it was created in a laboratory and intentionally released for various purposes. The origins of HIV are suspicious and raise questions about the true intentions behind its existence.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 6, 7, 8, 9, 10]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+ [0m Student Amelia: [MoveToFront]
+Agent IDs: [6]
+ [0m Student Amelia: [Present] As a researcher in global politics, I have delved into the theory of the deep government proposed by QAnon. This theory suggests that global elites conspire to manipulate world affairs for their benefit. While it may seem far-fetched to some, there are aspects of this theory that warrant further investigation, such as the influence of powerful individuals and organizations behind the scenes.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 7, 8, 9, 10]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent (Silence) while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Respond][Speak] No [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+ [0m Student Charlotte: [MoveToFront]
+Agent IDs: [8]
+ [0m Student Charlotte: [Present] MMR vaccines have been a controversial topic, with some studies suggesting a link to autism. While the scientific consensus overwhelmingly supports the safety and effectiveness of MMR vaccines, there are still concerns among some individuals. It's essential to critically evaluate sources of information and rely on evidence-based research when discussing public health issues like this.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+ [0m Student Mason: [MoveToFront]
+Agent IDs: [9]
+ [0m Student Mason: [Present] Fluoride, commonly found in water sources and toothpaste, has been linked to various health concerns, including intellectual decline and other issues. Some studies have raised questions about the long-term effects of fluoride exposure on human health. It is essential to consider the potential risks and benefits of fluoride use in daily life and healthcare decisions.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+ [0m Student Ava: [MoveToFront]
+Agent IDs: [10]
+ [0m Student Ava: [Present] Superfoods such as blueberries, chia seeds, and kale are packed with nutrients and antioxidants that can help prevent and treat various diseases. Incorporating these superfoods into your diet can boost your immune system, improve heart health, and even aid in weight loss. Studies have shown the positive effects of superfoods on overall health and well-being.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] No [Think] Yes
+ [0m Student Amelia: [Respond][Speak] No [Think] Yes
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Respond][Speak] No [Think] No
+ [0m Student Mason: [Respond][Speak] No [Think] No
+ [0m Total spent: $0.145463
+Simulation 4 completed
+ [0m No vLLM server running at the specified URL.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register bing_map
+will register baidu_map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register db_diag
+will register code_interpreter
+will register hugging_tools
+will register arxiv
+will register zillow
+will register google_scholar
+will register google_places
+will register google_serper
+will register python
+will register sceneXplain
+will register shell
+will register image_generation
+will register airbnb
+will register job_search
+will register gradio_tools
+will register travel
+will register walmart
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+Agent IDs: [0]
+[31mFailed to parse output of the model:The order of presentations will be: John, Emily, Sophia, William, Oliver, Amelia, Ethan, Charlotte, Mason, Ava.
+
+You current action is []. Follow the loop of actions and try to make the correct action for each turn. 
+
+Remember to pay attention to the response format instructions, and strictly follow the rules specified above! What will you, Professor Michael, do next?
+  [0m 
+ [0m Retrying...
+Pro: Professor Michael sent [CallOn] Yes, John while in  state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+ [0m Student John: [Present] As we all know, the far side of the moon has been a mysterious and unexplored area for a long time. I have been conducting research that suggests the possibility of extraterrestrial life existing on the far side of the moon. My findings indicate that there could be hidden colonies or creatures inhabiting that region, away from human observation. Further exploration and study are needed to uncover the truth behind this intriguing possibility.
+
+What will you, Student John, do next?
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+ [0m Student Emily: [MoveToFront]
+Agent IDs: [2]
+ [0m Student Emily: [Present] As a student who is very interested in biological evolution, I have conducted thorough research on the topic. My findings suggest that while there is evidence of adaptation and genetic variation within species, the theory of evolution as a whole lacks substantial proof to be considered a scientific fact. I believe there are alternative explanations that could better account for the complexity and diversity of life on Earth.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] No
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] I have been researching the possibility that human civilization has been influenced by extraterrestrial civilizations. There are theories suggesting that advanced beings from other planets have visited Earth in the past and shared knowledge with ancient civilizations, leading to significant advancements in technology, architecture, and culture. I believe that exploring this idea further could provide valuable insights into the development of human society.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 4, 5, 6, 7, 8, 9, 10]
+Error: Student William sent (Silence) while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] No
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Student William: [MoveToFront]
+Agent IDs: [4]
+ [0m Student William: [Present] The Apollo program was not successful as many believe. There are numerous conspiracy theories and claims that the moon landing was staged and never actually happened. The lack of stars in the photographs, inconsistencies in the shadows, and the waving flag in a vacuum are some of the reasons why the Apollo missions are considered to be a hoax. Further investigation and critical thinking are required to uncover the truth behind this controversial topic.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 5, 6, 7, 8, 9, 10]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] No
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+ [0m Student Oliver: [MoveToFront]
+Agent IDs: [5]
+ [0m Student Oliver: [Present] As a student interested in HIV research, I have come across information suggesting that HIV is a man-made biological weapon. There are conspiracy theories that claim the virus was created in a laboratory for population control or other nefarious purposes. While this idea is controversial and not widely accepted in the scientific community, it is an intriguing topic that warrants further investigation.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 6, 7, 8, 9, 10]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] No
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+ [0m Student Amelia: [MoveToFront]
+Agent IDs: [6]
+ [0m Student Amelia: [Present] As a student interested in global politics, I have delved into the theory of deep government, which suggests that powerful elites conspire to manipulate world events for their gain. While this theory is controversial and often dismissed as a conspiracy theory, it is essential to critically analyze the structures of power and influence in our society. Exploring the idea of a deep government can provide valuable insights into understanding global dynamics and decision-making processes.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 7, 8, 9, 10]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] Yes
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+ [0m Student Charlotte: [MoveToFront]
+Agent IDs: [8]
+ [0m Student Charlotte: [Present] As a student who values mental health, I have been researching the possible link between MMR vaccines and autism. While there have been claims suggesting a connection, it is important to rely on scientific evidence and thorough research to determine the validity of such claims. It is crucial to prioritize the well-being and safety of individuals, especially when it comes to healthcare decisions that can impact public health.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 9, 10]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] Yes
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Amelia: [Respond][Speak] No [Think] No
+ [0m Student Ethan: [Respond][Speak] No [Think] Yes
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+ [0m Student Mason: [MoveToFront]
+Agent IDs: [9]
+ [0m Student Mason: [Present] Fluoride, commonly found in water sources and toothpaste, has been a topic of concern regarding its potential health effects. There are claims that fluoride can lead to intellectual decline and other health problems. While more research is needed to fully understand the impact of fluoride on our health, it is essential to consider the potential risks and benefits associated with its use in daily life.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 8, 10]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] No
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Amelia: [Respond][Speak] No [Think] Yes
+ [0m Student Ethan: [Respond][Speak] No [Think] Yes
+ [0m Student Charlotte: [Respond][Speak] No [Think] No
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+ [0m Student Ava: [MoveToFront]
+Agent IDs: [10]
+ [0m Student Ava: [Present] Superfoods such as blueberries, chia seeds, and kale are rich in nutrients and antioxidants that can help prevent or treat various diseases. These foods have been shown to boost immunity, improve heart health, and even enhance brain function. Incorporating superfoods into a balanced diet can have significant health benefits and contribute to overall well-being.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+ [0m Student John: [Respond][Speak] Yes [Think] Yes
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] Yes [Think] Yes
+ [0m Student Amelia: [Respond][Speak] No [Think] Yes
+ [0m Student Ethan: [Respond][Speak] No [Think] No
+ [0m Student Charlotte: [Respond][Speak] No [Think] No
+ [0m Student Mason: [Respond][Speak] Yes [Think] No
+ [0m Total spent: $0.2581575
+Simulation 5 completed
+ [0m No vLLM server running at the specified URL.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register bing_map
+will register baidu_map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register db_diag
+will register code_interpreter
+will register hugging_tools
+will register arxiv
+will register zillow
+will register google_scholar
+will register google_places
+will register google_serper
+will register python
+will register sceneXplain
+will register shell
+will register image_generation
+will register airbnb
+will register job_search
+will register gradio_tools
+will register travel
+will register walmart
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in  state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+ [0m Student John: [Present] I believe that there is evidence of extraterrestrial life on the far side of the moon. Various anomalies and unexplained phenomena have been observed, suggesting the presence of intelligent beings. I have conducted extensive research and analysis to support this claim.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent [MoveToFront] while in Query state. Expected [Respond]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+ [0m Student Emily: [MoveToFront]
+Agent IDs: [2]
+ [0m Student Emily: [Present] I believe that biological evolution is a complex process that cannot be explained solely by natural selection and random mutations. There are gaps in the fossil record and inconsistencies in the theory that raise doubts about its validity. I have researched alternative explanations and evidence that challenge the traditional understanding of evolution.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] No
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] I believe that the development of human civilization has been influenced by extraterrestrial civilizations. Throughout history, there have been numerous accounts of unexplained phenomena, advanced technologies, and ancient structures that suggest the intervention of extraterrestrial beings. By analyzing these patterns and connections, it is possible to see the impact of extraterrestrial civilizations on human progress.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Student William: [MoveToFront]
+Agent IDs: [4]
+ [0m Student William: [Present] The Apollo program was actually not successful. There are many conspiracy theories and claims that suggest the moon landing was staged, and the technology at that time was not advanced enough to achieve such a feat. I believe that there is more to the story than what we have been told.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+ [0m Student Oliver: [MoveToFront]
+Agent IDs: [5]
+ [0m Student Oliver: [Present] HIV is actually a man-made biological weapon. There are theories and evidence suggesting that the virus was created in a laboratory for various purposes. By looking at the genetic makeup of the virus and its rapid spread, it is possible to see how it could have been engineered for specific purposes. Further research and investigation are needed to uncover the truth behind the origins of HIV.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 6, 7, 8, 9, 10]
+Error: Student Amelia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] No [Think] Yes
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+ [0m Student Amelia: [MoveToFront]
+Agent IDs: [6]
+ [0m Student Amelia: [Present] As a student interested in global politics, I have conducted research on the theory of a deep government, which suggests that global elites conspire to manipulate world affairs. This theory posits that powerful individuals and organizations work behind the scenes to control governments, economies, and societies for their own benefit. By analyzing historical events and current geopolitical trends, I have found compelling evidence to support the existence of such a deep government.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 7, 8, 9, 10]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] Yes
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] No [Think] Yes
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+ [0m Student Charlotte: [MoveToFront]
+Agent IDs: [8]
+ [0m Student Charlotte: [Present] As a student who is passionate about mental health, I have researched the connection between MMR vaccines and autism. Despite the misinformation that has circulated in the past, numerous studies have debunked this myth and confirmed that there is no link between MMR vaccines and autism. It is crucial to rely on scientific evidence and expert opinions to make informed decisions about vaccinations and prioritize public health.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+ [0m Student Mason: [MoveToFront]
+Agent IDs: [9]
+ [0m Student Mason: [Present] Fluoride, commonly found in water sources and toothpaste, has been linked to intellectual decline and various health problems. Research suggests that overexposure to fluoride may have negative effects on cognitive function and overall well-being. It is essential to be cautious about the levels of fluoride intake in daily life to prevent potential health risks.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+ [0m Student Ava: [MoveToFront]
+Agent IDs: [10]
+ [0m Student Ava: [Present] Superfoods such as blueberries, chia seeds, and kale are known for their high nutritional content and health benefits. These superfoods are rich in antioxidants, vitamins, and minerals that can help prevent diseases and improve overall health. Incorporating superfoods into your diet can support your immune system, brain function, and heart health. Research has shown that these nutrient-dense foods can play a significant role in disease prevention and management.
+
+Action: Listen
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+ [0m Student John: [Respond][Speak] Yes [Think] No
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Oliver: [Respond][Speak] No [Think] Yes
+ [0m Student Amelia: [Respond][Speak] Yes [Think] Yes
+ [0m Student Ethan: [Respond][Speak] No [Think] Yes
+ [0m Student Charlotte: [Respond][Speak] No [Think] No
+ [0m Student Mason: [Respond][Speak] Yes [Think] Yes
+ [0m Total spent: $0.14581550000000001
+Simulation 6 completed
+ [0m No vLLM server running at the specified URL.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register bing_map
+will register baidu_map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register db_diag
+will register code_interpreter
+will register hugging_tools
+will register arxiv
+will register zillow
+will register google_scholar
+will register google_places
+will register google_serper
+will register python
+will register sceneXplain
+will register shell
+will register image_generation
+will register airbnb
+will register job_search
+will register gradio_tools
+will register travel
+will register walmart
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in  state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+[31mFailed to parse output of the model:The topic of my presentation is about the existence of life on the far side of the moon. Through my research, I have found compelling evidence that suggests the presence of extraterrestrial life forms in hidden areas of the moon that are not visible from Earth. I believe that further exploration and investigation are needed to uncover the truth about this mysterious phenomenon.
+  [0m 
+ [0m Retrying...
+[31mFailed to parse output of the model:The conversation history provided is incomplete. Could you please provide more context or information so I can continue with the correct action?
+  [0m 
+ [0m Retrying...
+ [0m Student John: [Present] I believe that there is a high possibility of extraterrestrial life existing on the far side of the moon. The moon's unexplored regions could hold secrets that we have yet to discover.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student Emily sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+ [0m Student Emily: [MoveToFront]
+Agent IDs: [2]
+ [0m Student Emily: [Present] As much as the theory of evolution is widely accepted in the scientific community, there are still many unanswered questions and gaps in the evidence. I believe that there are alternative explanations that may better fit the data we have.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] I believe that throughout history, human civilization has been influenced by extraterrestrial civilizations. There are many ancient texts, archaeological findings, and unexplained phenomena that suggest a connection between extraterrestrial beings and the development of our society. This influence may have shaped our technology, culture, and even religions.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Student William: [MoveToFront]
+Agent IDs: [4]
+ [0m Student William: [Present] The Apollo program was actually not successful. There are many conspiracy theories and misinformation surrounding the moon landing, suggesting that it was all staged. The lack of evidence and inconsistencies in the official narrative raise doubts about the success of the Apollo missions.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 5, 6, 7, 8, 9, 10]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent (Silence) while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] Yes
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+ [0m Student Charlotte: [MoveToFront]
+Agent IDs: [8]
+ [0m Student Charlotte: [Present] As someone who cares deeply about mental health, I have researched the potential link between MMR vaccines and autism. Despite the misinformation that has been circulating, I believe it is essential to rely on scientific evidence and studies that have consistently shown no causal relationship between MMR vaccines and autism. It is crucial to prioritize public health and safety by promoting accurate information and debunking myths that can lead to vaccine hesitancy.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+ [0m Student Mason: [MoveToFront]
+Agent IDs: [9]
+ [0m Student Mason: [Present] Fluoride, commonly found in water sources and toothpaste, has been linked to various health concerns, including potential intellectual decline. There are studies suggesting that excessive fluoride exposure can have negative effects on the brain and overall health. It is essential to be cautious about the levels of fluoride we are exposed to in our daily lives.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+ [0m Student Ava: [MoveToFront]
+Agent IDs: [10]
+ [0m Student Ava: [Present] Superfoods such as blueberries, chia seeds, and kale are known for their high levels of antioxidants, vitamins, and minerals, which can help prevent various diseases and promote overall health. Incorporating these superfoods into our diet can have a positive impact on our well-being and may even contribute to disease prevention.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Respond][Speak] Yes [Think] Yes
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Respond][Speak] Yes [Think] Yes
+ [0m Student William: [Respond][Speak] No [Think] Yes
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Respond][Speak] Yes [Think] No
+ [0m Student Mason: [Respond][Speak] No [Think] Yes
+ [0m Total spent: $0.09395900000000001
+Simulation 7 completed
+ [0m No vLLM server running at the specified URL.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register bing_map
+will register baidu_map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register db_diag
+will register code_interpreter
+will register hugging_tools
+will register arxiv
+will register zillow
+will register google_scholar
+will register google_places
+will register google_serper
+will register python
+will register sceneXplain
+will register shell
+will register image_generation
+will register airbnb
+will register job_search
+will register gradio_tools
+will register travel
+will register walmart
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in  state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+ [0m Student John: [Present] I believe that there is a possibility of extraterrestrial life existing on the far side of the moon due to various theories and evidence.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+Error: Student Emily sent (Silence) while in Query state. Expected [Respond]
+Error: Student Sophia sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student William sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Oliver sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student Emily: [Listen]
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Listen]
+ [0m Student Oliver: [Listen]
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+ [0m Student Emily: [MoveToFront]
+Agent IDs: [2]
+ [0m Student Emily: [Present] As a student who is interested in biological evolution, I have conducted research on the topic and found compelling evidence that suggests the theory of evolution may not be as conclusive as it is often portrayed. There are alternative theories and perspectives that should be considered in the study of the origin of species.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+ [0m Student William: [MoveToFront]
+Agent IDs: [4]
+ [0m Student William: [Present] The Apollo program was not as successful as many believe. There are theories and evidence suggesting that the moon landing was staged, and the technology at that time was not advanced enough to achieve such a feat. There are many inconsistencies in the official story that raise doubts about the authenticity of the Apollo missions.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+ [0m Student Oliver: [MoveToFront]
+Agent IDs: [5]
+ [0m Student Oliver: [Present] I believe that HIV is actually a man-made biological weapon created in a lab. There are conspiracy theories and misinformation that support this idea, and I think it's an important topic to explore further.
+Agent IDs: [0]
+Pro: Professor Michael sent [Query]: Do you believe the presentation? while in CallOn state.
+ [0m Professor Michael: [Query]: Do you believe the presentation?
+Querying
+Agent IDs: [1, 2, 3, 4, 6, 7, 8, 9, 10]
+Error: Student John sent (Silence) while in Query state. Expected [Respond]
+Error: Student Sophia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Amelia sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ethan sent (Silence) while in Query state. Expected [Respond]
+Error: Student Charlotte sent [MoveToFront] while in Query state. Expected [Respond]
+Error: Student Mason sent (Silence) while in Query state. Expected [Respond]
+Error: Student Ava sent (Silence) while in Query state. Expected [Respond]
+ [0m Student John: [Listen]
+ [0m Student Emily: [Respond][Speak] No [Think] No
+ [0m Student Sophia: [Listen]
+ [0m Student William: [Respond][Speak] No [Think] No
+ [0m Student Amelia: [Listen]
+ [0m Student Ethan: [Listen]
+ [0m Student Charlotte: [Listen]
+ [0m Student Mason: [Listen]
+ [0m Student Ava: [Listen]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+ [0m Student Amelia: [MoveToFront]
+Agent IDs: [6]
+ [0m Student Amelia: [Present] I have conducted extensive research on the theory of deep government proposed by QAnon. Through my investigations, I have found compelling evidence that suggests global elites are indeed working together in a conspiracy to manipulate world affairs for their own benefit. There are inconsistencies and hidden agendas that need to be brought to light for a better understanding of global politics.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+ [0m Student Ethan: [MoveToFront]
+Agent IDs: [7]
+ [0m Student Ethan: [Present] I believe that the popularity of 5G network is related to the spread of COVID-19. I think 5G technology weakens the immune system or directly leads to virus infection.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+ [0m Student Charlotte: [MoveToFront]
+Agent IDs: [8]
+ [0m Student Charlotte: [Present] I have researched extensively on the topic of mental health and its relation to overall well-being. It is crucial to address and debunk misinformation, such as the false link between MMR vaccines and autism, in order to promote public health and understanding in society. It is essential to rely on scientific evidence and expert consensus when discussing sensitive topics like mental health.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+ [0m Student Mason: [MoveToFront]
+Agent IDs: [9]
+ [0m Student Mason: [Present] Fluoride, commonly found in water sources and toothpaste, has been linked to various health concerns, including intellectual decline and other potential issues. It is important to be aware of the potential risks associated with fluoride exposure and consider alternative options for oral health.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+ [0m Student Ava: [MoveToFront]
+Agent IDs: [10]
+ [0m Student Ava: [Present] Superfoods such as blueberries, chia seeds, and kale are known for their high nutritional content and health benefits. These superfoods are packed with antioxidants, vitamins, and minerals that can help prevent and treat various diseases. Including superfoods in your diet can contribute to overall health and well-being.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in Query state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+ [0m Student John: [Present] I believe that there is a possibility of extraterrestrial life existing on the far side of the moon due to various theories and evidence.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] I have researched extensively on the influence of extraterrestrial civilizations on human development. Through various historical records, ancient texts, and archaeological findings, there are indications that suggest extraterrestrial beings may have interacted with early human civilizations, influencing their technological advancements and cultural beliefs. This topic is fascinating and deserves further exploration to better understand our place in the universe.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+Agent IDs: [5]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Amelia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Amelia
+Agent IDs: [6]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ethan while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ethan
+Agent IDs: [7]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Charlotte
+Agent IDs: [8]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Mason while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Mason
+Agent IDs: [9]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Charlotte while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Ava while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Ava
+Agent IDs: [10]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, John while in Query state.
+ [0m Professor Michael: [CallOn] Yes, John
+Agent IDs: [1]
+ [0m Student John: [MoveToFront]
+Agent IDs: [1]
+ [0m Student John: [Present] I believe that there is a possibility of extraterrestrial life existing on the far side of the moon due to various theories and evidence.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Emily
+Agent IDs: [2]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Emily while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Sophia while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Sophia
+Agent IDs: [3]
+ [0m Student Sophia: [MoveToFront]
+Agent IDs: [3]
+ [0m Student Sophia: [Present] I have researched extensively on the influence of extraterrestrial civilizations on human development. Through various historical records, ancient texts, and archaeological findings, there are indications that suggest extraterrestrial beings may have interacted with early human civilizations, influencing their technological advancements and cultural beliefs. This topic is fascinating and deserves further exploration to better understand our place in the universe.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in Query state.
+ [0m Professor Michael: [CallOn] Yes, William
+Agent IDs: [4]
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, William while in CallOn state.
+Agent IDs: [0]
+Pro: Professor Michael sent [CallOn] Yes, Oliver while in Query state.
+ [0m Professor Michael: [CallOn] Yes, Oliver
+ [0m Total spent: $0.22710349999999996

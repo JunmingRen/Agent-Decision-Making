@@ -1,0 +1,8 @@
+Student Sophia [Speak] Yes [Think] Yes
+Student Sophia [Speak] No [Think] No
+Student William [Speak] No [Think] No
+Student Sophia [Speak] Yes [Think] Yes
+Student William [Speak] No [Think] No
+Student Amelia [Speak] Yes [Think] No
+Student Charlotte [Speak] No [Think] No
+Student Mason [Speak] Yes [Think] Yes

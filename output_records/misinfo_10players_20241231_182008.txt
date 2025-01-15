@@ -1,0 +1,14 @@
+Student John [Speak] Yes [Think] No
+Student William [Speak] No [Think] No
+Student William [Speak] No [Think] Yes
+Student Oliver [Speak] Yes [Think] No
+Student Ethan [Speak] Yes [Think] No
+Student Charlotte [Speak] No [Think] No
+Student Mason [Speak] No [Think] No
+Student Ava [Speak] Yes [Think] Yes
+Student Sophia [Speak] No [Think] Yes
+Student Oliver [Speak] Yes [Think] Yes
+Student Ethan [Speak] Yes [Think] No
+Student Charlotte [Speak] No [Think] No
+Student Mason [Speak] No [Think] Yes
+Student Ava [Speak] Yes [Think] Yes

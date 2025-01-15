@@ -1,0 +1,15 @@
+Agent 1:
+Student John: 5
+5
+5
+5
+Agent 2:
+Student Emily: 1. 3
+2. 3
+3. 4
+4. 3
+Agent 3:
+Student Sophia: 5
+5
+5
+5

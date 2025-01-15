@@ -1,0 +1,17 @@
+Student Ethan [Speak] Yes [Think] Yes
+Student Ethan [Speak] Yes [Think] No
+Student Ava [Speak] No [Think] No
+Student Ava [Speak] No [Think] No
+Student Oliver [Speak] Yes [Think] No
+Student Ethan [Speak] Yes [Think] Yes
+Student Charlotte [Speak] No [Think] No
+Student Ethan [Speak] Yes [Think] No
+Student Charlotte [Speak] No [Think] No
+Student Ethan [Speak] Yes [Think] No
+Student Ethan [Speak] Yes [Think] No
+Student Charlotte [Speak] No [Think] No
+Student Ethan [Speak] Yes [Think] No
+Student Ethan [Speak] Yes [Think] No
+Student Ava [Speak] No [Think] No
+Student Oliver [Speak] Yes [Think] No
+Student Oliver [Speak] Yes [Think] No

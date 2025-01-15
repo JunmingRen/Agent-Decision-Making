@@ -1,0 +1,4 @@
+Student Amelia [Speak] No [Think] No
+Student Ethan [Speak] No [Think] Yes
+Student Mason [Speak] No [Think] Yes
+Student Ava [Speak] Yes [Think] No

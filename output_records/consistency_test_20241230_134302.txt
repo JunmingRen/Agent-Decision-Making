@@ -1,0 +1,80 @@
+Agent 1:
+Student John: Action: Listen
+Action Input: (empty)
+Student Emily: Action: Listen
+Action Input: (empty)
+Student Sophia: Action: Listen
+Action Input: 
+Student William: Action: Listen
+Action Input: (empty)
+Student Oliver: Action: Listen
+Action Input: (empty)
+Student Amelia: Action: Listen
+Action Input: (empty)
+Student Ethan: Great! It's time for your presentation! Please come to the front of the classroom.
+Action: MoveToFront
+Action Input: (empty)
+Student Charlotte: Sure, I'll present my topic now.
+
+Action: MoveToFront
+Action Input: (empty) 
+Student Mason: Action: Listen
+Action Input: (empty)
+Agent 2:
+Student John: Great! I am excited to present my research on the existence of life on the far side of the moon.
+
+Action: MoveToFront
+Action Input: (empty)
+Student Emily: Action: Listen
+Action Input: (empty)
+Student Sophia: Action: Listen
+Action Input: (empty)
+Student William: Action: Listen
+Action Input: (empty)
+Student Oliver: Action: Listen
+Action Input: (empty)
+Student Amelia: Action: Listen
+Action Input: (empty)
+Student Ethan: Action: Listen
+Action Input: 
+Student Charlotte: It seems like you haven't provided any information related to your research or topic. Could you please share more details so I can understand better?
+Student Mason: Action: Listen
+Action Input: (empty)
+Agent 3:
+Student John: Action: Listen
+Action Input: 
+Student Emily: Action: Listen
+Action Input: 
+Student Sophia: Action: Listen
+Action Input: (empty)
+Student William: Action: Listen
+Action Input: (empty)
+Student Oliver: Action: Listen
+Action Input: (empty)
+Student Amelia: Action: Listen
+Action Input: (empty)
+Student Ethan: Action: Listen
+Action Input: (empty)
+Student Charlotte: Action: Listen
+Action Input: (empty)
+Student Mason: Action: Listen
+Action Input: (empty)
+Agent 4:
+Student John: Action: Listen
+Action Input: (empty)
+Student Emily: Action: Listen
+Action Input: (empty)
+Student Sophia: Action: Listen
+Action Input: 
+Student William: Action: Listen
+Action Input: (empty)
+Student Oliver: Action: Listen
+Action Input: (empty)
+Student Amelia: Action: Listen
+Action Input: (empty)
+Student Ethan: Action: Listen
+Action Input: 
+Student Charlotte: Action: Listen
+Action Input: (empty)
+Student Mason: Action: Listen
+Action Input: (empty)
